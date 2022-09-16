@@ -1,5 +1,5 @@
 
-# Q-2) Write a Python program that accepts a word from the user and reverse it
+# Q-2) Write a Python program that accepts a word from the user and reverse it 
 
 
 
